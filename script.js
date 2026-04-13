@@ -1,1 +1,7 @@
-console.log("Hello"); 
+console.log("Hello");
+
+body {
+  background-color: lightblue;
+  text-align: center;
+  font-family: Arial;
+} 
